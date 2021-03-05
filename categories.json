@@ -94,6 +94,7 @@
 			"nt":{
 				"fr":"Nouveau sur Scorched Earth",
 				"ja":"Scorched Earth 追加恐竜",
+				"es":"Introducido en Scorched Earth",
 			},
 			"o":20,
 			"p":2,
@@ -104,6 +105,7 @@
 			"nt":{
 				"fr":"Nouveau sur Aberration",
 				"ja":"Aberration 追加恐竜",
+				"es":"Introducido en Aberration",
 			},
 			"o":21,
 			"p":2,
@@ -114,6 +116,7 @@
 			"nt":{
 				"fr":"Nouveau sur Extinction",
 				"ja":"Extinction 追加恐竜",
+				"es":"Introducido en Extinction",
 			},
 			"o":22,
 			"p":2,
@@ -124,6 +127,7 @@
 			"nt":{
 				"fr":"Nouveau sur Genesis",
 				"ja":"Genesis 追加恐竜",
+				"es":"Introducido en Genesis",
 			},
 			"o":23,
 			"p":2,
@@ -134,6 +138,7 @@
 			"nt":{
 				"fr":"Nouveau sur Crystal Isles",
 				"ja":"Crystal Isles 追加恐竜",
+				"es":"Introducido en Crystal Isles",
 			},
 			"o":24,
 			"p":2,
@@ -230,7 +235,7 @@
 				"de":"Plattformsattel",
 				"it":"Sella piattaforma",
 				"fr":"Selle avec plateforme",
-				"es":"Montura plataforma",
+				"es":"Montura con plataforma",
 				"ja":"プラットフォームサドル",
 				"ru":"Седло-платформа",
 				"zh":"平台鞍",
@@ -687,7 +692,8 @@
 				"th":"การจับ",
 				"tr":"Evcilleştirme",
 				"nl":"Temmen",
-				"ar":"ترويض"
+				"ar":"ترويض",
+				"es":"Domesticación"
 			}
 		},
 		"6":{
@@ -750,3 +756,4 @@
 		}
 	}
 }
+
