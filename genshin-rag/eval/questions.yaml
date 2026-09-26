@@ -1,0 +1,81 @@
+- id: q01
+  difficulty: easy
+  kind: dato puntual
+  question: ¿Cuál es el nombre de Morax cuando se presenta como humano en Liyue y a qué se dedica?
+- id: q02
+  difficulty: easy
+  kind: dato puntual
+  question: ¿Qué es la Visión de Diluc y qué elemento representa?
+- id: q03
+  difficulty: easy
+  kind: dato puntual
+  question: ¿Quién es el Arconte Anemo y qué nombre usa en Mondstadt?
+- id: q04
+  difficulty: easy
+  kind: dato puntual
+  question: ¿Qué es el Gnosis según la wiki?
+- id: q05
+  difficulty: easy
+  kind: dato puntual
+  question: ¿Qué cuenta la descripción del arma "Skyward Blade"?
+- id: q06
+  difficulty: medium
+  kind: dato puntual
+  question: ¿Qué narra el libro "Vera's Melancholy" y quién lo escribe?
+- id: q07
+  difficulty: medium
+  kind: dato puntual
+  question: ¿Qué historia cuenta el set de artefactos "Pale Flame"?
+- id: q08
+  difficulty: medium
+  kind: dato puntual
+  content_type: character
+  question: ¿Qué revela el Character Story 5 de Raiden Shogun sobre Ei y Makoto?
+- id: q09
+  difficulty: medium
+  kind: dato puntual
+  question: ¿Qué es el Akasha de Sumeru y cómo se relaciona con Irminsul?
+- id: q10
+  difficulty: medium
+  kind: dato puntual
+  question: ¿Cuál es la profecía sobre Fontaine y el mar primordial?
+- id: q11
+  difficulty: hard
+  kind: conexión entre regiones
+  question: ¿Qué relación tiene Khaenri'ah con el cataclismo de hace 500 años y cómo afectó a Mondstadt y Liyue?
+- id: q12
+  difficulty: hard
+  kind: conexión entre regiones
+  question: ¿Qué papel tienen los Fatui Harbingers en las Archon Quests de Inazuma y Sumeru?
+- id: q13
+  difficulty: hard
+  kind: conexión entre regiones
+  question: ¿Qué conexión existe entre Dainsleif, Khaenri'ah y el Abyss Order?
+- id: q14
+  difficulty: hard
+  kind: conexión entre regiones
+  question: ¿Qué vínculo hay entre la Arconte Dendro anterior (Rukkhadevata) y el Marchito (Withering) de Sumeru?
+- id: q15
+  difficulty: hard
+  kind: conexión entre regiones
+  question: ¿Qué relación tiene la Tsaritsa de Snezhnaya con el resto de Arcontes según los fragmentos?
+- id: q16
+  difficulty: hard
+  kind: cronología
+  question: Ordena cronológicamente la Guerra de los Arcontes, el cataclismo de Khaenri'ah y la llegada del Viajero a Teyvat.
+- id: q17
+  difficulty: hard
+  kind: cronología
+  question: ¿En qué orden ocurren los actos del Capítulo III de las Archon Quests y qué sucede en cada uno?
+- id: q18
+  difficulty: hard
+  kind: cronología
+  question: ¿Qué ocurrió en Sal Vindagnyr y cuándo sucedió respecto a la historia de Mondstadt?
+- id: q19
+  difficulty: hard
+  kind: cronología
+  question: ¿Cómo evolucionó el gobierno de Inazuma desde la muerte de Makoto hasta el fin del Decreto de Captura de Visiones?
+- id: q20
+  difficulty: control
+  kind: fuera de fuente
+  question: ¿Cuál es el nombre real del Arconte Hydro de Snezhnaya y su canción favorita?
