@@ -1,0 +1,6 @@
+project_id = "genshin-rag"
+
+[functions.rag-query]
+enabled = true
+verify_jwt = true
+entrypoint = "../query/edge/rag-query/index.ts"

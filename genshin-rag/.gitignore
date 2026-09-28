@@ -1,0 +1,7 @@
+.env
+data/raw/
+data/*.jsonl
+data/*.json
+eval/results/
+__pycache__/
+.venv/
